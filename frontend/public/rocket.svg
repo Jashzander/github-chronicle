@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rocket">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path fill="#bb86fc" stroke="#bb86fc" d="M32 2c10 6 17 17 18 30l-18 18L14 32C15 19 22 8 32 2Z"/>
+    <circle cx="32" cy="26" r="6" fill="#1e1e1e" stroke="#03dac6"/>
+    <path fill="#ffb74d" stroke="#ffb74d" d="M32 50v12M26 54v8M38 54v8"/>
+  </g>
+</svg> 

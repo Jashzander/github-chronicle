@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+backend/.venv/
+backend/venv/
+
+# Cloned repositories
+backend/cloned_repos/
+
+# Node packages
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+
+# Environment files
+frontend/.env 
